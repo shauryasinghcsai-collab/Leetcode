@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0148-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
