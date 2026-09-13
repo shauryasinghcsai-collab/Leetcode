@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Queue
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0148-sort-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
