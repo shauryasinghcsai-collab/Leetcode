@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0169-majority-element) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
