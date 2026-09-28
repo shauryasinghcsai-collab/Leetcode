@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0912-sort-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Queue
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
