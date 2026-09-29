@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -122,9 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0054-spiral-matrix) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
