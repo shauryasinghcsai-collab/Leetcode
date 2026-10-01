@@ -139,4 +139,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
