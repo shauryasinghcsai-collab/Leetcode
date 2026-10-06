@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
