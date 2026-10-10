@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0912-sort-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Queue
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0912-sort-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0912-sort-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0704-binary-search) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
 |  |
 | ------- |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Breadth-First Search
 |  |
 | ------- |
