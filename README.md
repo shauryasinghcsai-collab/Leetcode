@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0048-rotate-image) |
+| [2409-count-days-spent-together](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
