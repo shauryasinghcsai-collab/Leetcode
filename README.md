@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Queue
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1254-number-of-closed-islands](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -248,11 +250,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -271,4 +275,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
