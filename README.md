@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Queue
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0136-single-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1254-number-of-closed-islands](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
