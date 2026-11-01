@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0069-sqrtx) |
 | [2409-count-days-spent-together](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shauryasinghcsai-collab/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
