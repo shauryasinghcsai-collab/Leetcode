@@ -1,0 +1,19 @@
+class Solution {
+    public int climbStairs(int n, int[] costs) {
+        long[] dp = new long[n + 1];
+        java.util.Arrays.fill(dp, Long.MAX_VALUE);
+        dp[0] = 0;
+        
+        for (int j = 1; j <= n; j++) {
+            for (int i = Math.max(0, j - 3); i < j; i++) {
+                long prevCost = dp[i];
+                if (prevCost != Long.MAX_VALUE) {
+                    long jumpCost = costs[j - 1] + (long)(j - i) * (j - i);
+                    dp[j] = Math.min(dp[j], prevCost + jumpCost);
+                }
+            }
+        }
+        
+        return (int) dp[n];
+    }
+}
